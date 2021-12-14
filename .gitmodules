@@ -1,0 +1,3 @@
+[submodule "Open3D-ML"]
+	path = Open3D-ML
+	url = https://github.com/m-klasen/Open3D-ML
